@@ -1,6 +1,6 @@
 ### Проекты, выполненные в курсе Яндекс.Практикум
 
-1.  [Исследование надёжности заёмщиков](https://github.com/tatiana-pisarevskaia/Yandex_practicum/blob/master/1_Data_preprocessing/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)
+1.  [Исследование надёжности заёмщиков](https://github.com/tatiana-pisarevskaia/Yandex_practicum/tree/master/1_Data_preprocessing)
 2. Исследование объявлений о продаже квартир
 3. Определение перспективного тарифа для телеком компании
 4. Определение перспективного продукта в индустрии реализации компьютерных игр
